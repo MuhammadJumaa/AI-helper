@@ -22,7 +22,7 @@ function App() {
       https://platform.openai.com/account/api-keys
 
     *********************************************/
-    apiKey: "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",
+    apiKey: "API key",
   });
   const openai = new OpenAIApi(configuration);
 
